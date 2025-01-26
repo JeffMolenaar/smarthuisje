@@ -1,0 +1,12 @@
+{
+  "domain": "smarthuisje",
+  "name": "Smarthuisje.nl",
+  "version": "1.0.1",
+  "documentation": "https://gitlab.millercodings.nl/smarthuisje.nl/homeassistantintergration",
+  "dependencies": [],
+  "requirements": ["websockets>=10.3"],
+  "codeowners": ["@j.molenaar"],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "integration_type": "device"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Smarthuisje.nl",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Smarthuisje.nl",
+        "description": "Enter the host and port of your Smarthuisje.nl device.",
+        "data": {
+          "host": "Host",
+          "port": "Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the device."
+    }
+  }
+}
